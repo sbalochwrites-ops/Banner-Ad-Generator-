@@ -1,0 +1,6 @@
+{
+  "name": "Banner Ad Generator",
+  "description": "Generate high-quality banner ads across all standard IAB sizes from any product description and URL using Gemini image and copywriting models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
